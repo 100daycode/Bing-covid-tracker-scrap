@@ -1,0 +1,15 @@
+{
+  "name": "bing-scrap",
+  "version": "1.0.0",
+  "description": "scraping covid data form bing covid tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fiqry choerudin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}
